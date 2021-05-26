@@ -1,6 +1,9 @@
 # Colorectal-Cancer-Grading
 
-An Attention based Multiple-Instance-Learning Model is used to classify the Colorectal Cancer microscopy images into Grade 1-3.
+The dataset used in this project comprises of 300 non-overlapping images of size greater than 4548×7548 pixels, extracted at 20× magnification. 
+Each image is labelled as normal tissue (Grade1), low grade (Grade2) tumours or high grade (Grade3) tumours by expert pathologists.
+
+An Attention-based Multiple-Instance-Learning model is used to classify the large images.
 
 #### Dataset: Extended Colorectal Cancer Grading Dataset
 https://warwick.ac.uk/fac/cross_fac/tia/data/extended_crc_grading/
